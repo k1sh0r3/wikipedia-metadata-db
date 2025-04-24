@@ -86,42 +86,6 @@ wikipedia-metadata-db/
 
 ---
 
-## 🚀 How to Run It Locally
-
-### 🐍 Backend (FastAPI)
-
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-```
-
-### ⚛️ Frontend (React + Vite)
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-## 🧪 Example Use Cases
-
-- Researchers creating curated knowledge sets
-- Students organizing resources by subject
-- App developers building learning or reading tools using open content
-
----
-
-## 🤝 Want to Contribute?
-
-Totally welcome! Just fork this repo, make a new branch, and submit a pull request. Even small suggestions or edits are helpful.
-
----
-
 ## 📬 Questions?
 
 You can reach me at **kishore.reddy.allu@gmail.com** or open an issue on GitHub.
